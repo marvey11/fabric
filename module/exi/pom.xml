@@ -40,7 +40,7 @@
     <dependency>
       <groupId>xerces</groupId>
       <artifactId>xercesImpl</artifactId>
-      <version>xerces-exificient</version>
+      <version>2.12.1</version>
     </dependency>
 
     <dependency>
